@@ -1,0 +1,9 @@
+{
+  "name": "AgriEasy",
+  "description": "A comprehensive AI-powered platform for modern farmers featuring crop advisory, precision technology news, weather tracking, and an integrated fertilizer marketplace.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
